@@ -1,0 +1,2 @@
+This is my old and incomplete experiment with implementing type-safe database
+query language as Haskell EDSL.
